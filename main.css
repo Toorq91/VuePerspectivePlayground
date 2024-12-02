@@ -23,7 +23,7 @@ body {
 }
 
 h2 {
-    color: #8d81f3;
+    color: #2614c9;
     text-align: center;
     font-size: 40px;
     margin: 20px;
@@ -52,16 +52,17 @@ section.settings {
 }
 .box-container {
     padding: 50px;
-    border: 1px solid #8d81f3;
+    border: 1px solid #2614c9;
 }
 .box {
-    width: 150px;
-    height: 150px;
-    background: #8d81f3;
+    width: 250px;
+    height: 250px;
+    background: #2614c9;
 }
 button {
-    background-color: #8d81f3;
-    color: #fff;
+    background-color: #2614c9;
+    color: #ad1818;
     display: inline-block;
     font-size: 20px;
+    margin-right: 10px;
 }
